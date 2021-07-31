@@ -1,0 +1,9 @@
+---
+
+layout: slide
+
+title: "Welcome to our second slide!"
+
+---
+
+i have no idea what i'm doing
